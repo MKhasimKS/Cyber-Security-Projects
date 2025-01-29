@@ -1,2 +1,2 @@
 # Cyber-Security-Projects
-MSC Cyber Security With Advanced Reasearch Projects and Coursework Repo
+MSC Cyber Security With Advanced Research Projects and Coursework Repo
